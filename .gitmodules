@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:EolianAutoSolar/eolian-telemetry-backend.git
+[submodule "can_handler"]
+	path = can_handler
+	url = git@github.com:EolianAutoSolar/eolian-can-handler.git
+[submodule "data_extractor"]
+	path = data_extractor
+	url = git@github.com:EolianAutoSolar/eolian-data-extractor.git
+[submodule "component_simulator"]
+	path = component_simulator
+	url = git@github.com:EolianAutoSolar/first-stage-simulator.git
